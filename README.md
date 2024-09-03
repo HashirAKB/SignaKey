@@ -3,6 +3,9 @@
 
 Welcome to the **SignaKey**! This project demonstrates the creation of public/private keypairs and simulates transactions using both ED25519 (for Solana) and secp256k1 (for Ethereum) algorithms. This application is built with a focus on providing a clean, interactive, and visually appealing user experience, complete with a light/dark theme toggle.
 
+## Screenshot
+![SignaKey](image.png)
+
 ## Features
 
 - **Generate Public/Private Keypairs**: Users can generate secure random keypairs for both Solana (ED25519) and Ethereum (secp256k1).
